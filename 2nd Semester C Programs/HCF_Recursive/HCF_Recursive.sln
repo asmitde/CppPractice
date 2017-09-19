@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HCF_Recursive", "HCF_Recursive\HCF_Recursive.vcxproj", "{8DE43245-35C5-49CF-9C34-B791E4E30FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DE43245-35C5-49CF-9C34-B791E4E30FDA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8DE43245-35C5-49CF-9C34-B791E4E30FDA}.Debug|Win32.Build.0 = Debug|Win32
+		{8DE43245-35C5-49CF-9C34-B791E4E30FDA}.Release|Win32.ActiveCfg = Release|Win32
+		{8DE43245-35C5-49CF-9C34-B791E4E30FDA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
